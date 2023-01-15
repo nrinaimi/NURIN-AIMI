@@ -1,0 +1,37 @@
+a:link
+    {
+        color: rgb(192, 225, 238);
+        background-color:  rgb(47, 91, 107);
+        text-decoration: none;
+        padding: 15px;
+        display: inline;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+a:visited
+    {
+        color: rgb(152, 175, 251);
+        background-color: rgb(58, 47, 107);
+    }
+
+a:hover
+    {
+        color: rgb(112, 133, 216);
+        background-color: rgb(42, 87, 165);
+        text-decoration: none;
+    }
+
+    a:active
+    {
+        color: rgb(76, 0, 139);
+        background-color: rgb(105, 135, 255);
+        text-decoration: none;
+    }
+
+h1
+    {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: rgb(0, 88, 105);
+    }
+
+    
